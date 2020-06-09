@@ -26,7 +26,7 @@ jobs:
     - name: Hexo GitHub Action
       uses: yrpang/github-actions-hexo@v1.1
       with:
-          deploykey: ${{secrets.DEPLOY_KEY}}
+          deploykey: 40873f85a8785656faf924a438e7e83cc64ddffe 
           username: fengdianxun
           email: 731270777@qq.com
 
